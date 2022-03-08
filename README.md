@@ -12,3 +12,11 @@
 
 
 *openssl pkcs12 -export -out cycrax.p12 -inkey cycrax.key -in cycrax.crt*
+
+
+## Install Cert
+1. Double click file cycrax.crt
+2. Install Certificate...
+3. Local Machine -> Next
+4. Browse -> Trusted Root Certification Authorities -> Ok -> Next
+5. Finish
